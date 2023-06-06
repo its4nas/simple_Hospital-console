@@ -1,0 +1,3 @@
+feces digestion 300 600 1
+laser optic 500 1000 2
+blood neural 1000 2000 3

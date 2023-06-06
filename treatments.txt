@@ -1,0 +1,11 @@
+Patient ID: 9
+Doctor ID: 1
+Lab catagory: optic
+ Test Type: feces
+Date: tomorrow
+ Dagnose information: wtfPatient ID: 9
+Doctor ID: 1
+Lab catagory: optic
+ Test Type: feces
+Date: tomorrow
+ Dagnose information: poopswitheye
